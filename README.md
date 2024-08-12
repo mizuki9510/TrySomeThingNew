@@ -1,4 +1,4 @@
-# Try Something New For 30 Daysß
+# Try Something New For 30 Days
 
 以下の動画に感化されて、30日間今までやったことがないことや、やってみたいことにチャレンジするためのリポジトリです。
 
