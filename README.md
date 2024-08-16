@@ -52,7 +52,7 @@
 | 2021/04    | 新聞を毎日読む              | めちゃめちゃ楽しかった。お金がかかる。|[instagram](https://www.instagram.com/invites/contact/?igsh=1d2jdbupeimo4&utm_content=m4rqyhd)|
 | 2022/04? | ストレッチ           | 今でも毎日続いている。体は柔らかくならない |    |
 | 2024/07    | 決算書を読む           | 決算書アレルギーがなくなった。  |[instagram](https://www.instagram.com/invites/contact/?igsh=1d2jdbupeimo4&utm_content=m4rqyhd)|
-| 2024/08    | 競技プログラミング1日1問           | 仕事のための勉強にもなる。  |[画像](#参考) [Page](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1)|
+| 2024/08    | 競技プログラミング1日1問           | 仕事のための勉強にもなる。  |[画像](#参考) / [Page](https://judge.u-aizu.ac.jp/onlinejudge/finder.jsp?course=ITP1)|
 
 <!-- | YYYY/MM/DD | CPUの設計図を描く           | 概念が難しく時間がかかった  | -->
 <!-- | YYYY/MM/DD | ゴミ箱のプロトタイプ作成      | センサーの調整が必要        | -->
